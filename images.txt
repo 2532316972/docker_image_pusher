@@ -1,1 +1,1 @@
-qmsgnt:latest
+ccr.ccs.tencentyun.com/1069367258/qmsgnt:latest
